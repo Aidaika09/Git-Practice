@@ -36,9 +36,6 @@ Committing:
 	
 Check log:
 	git log - renders commit ids, authors, dates
-	
-Clone a remote repo:
-	git clone <url> <where to clone>
 
 View info about the repo:
 	git remote -v - lists info about the repo
