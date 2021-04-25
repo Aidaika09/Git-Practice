@@ -1,8 +1,10 @@
 # lab2info2
-The poetic coding dynamic is powerful.
-Code poetry is a piece of text that can be read as code and run as a program, but also read as poetry. 
-It can be human language poetry that has mathematical elements and codes in it, or a snipped code that aims for elegant expression within severe constraints
-— much like a haiku or a sonnet.
-Poems that are readable for humans and readable by computers are simply beautify because they imply a sort of mutual understanding between humans and our digital devices.
-Code poetry is special because it allows for a sort of hybrid expressionism and this creates an artistic link between human emotion and the black mirrors
-that we find ourselves constantly drawn to.
+Lab exercises
+These are the required exercises for this week. Work in groups of two and turn in the same
+report for each member of the pair. Remember to put your names on the report, as well as
+the link to your groups repository. If you haven’t already, I highly recommend switching to
+Eclipse now - using different IDEs makes collaborating with Git more complicated.
+The goal for this week is that you are getting comfortable with the basic Git workflow. You’ll
+be using Git for your pair programming this semester and include a link to your groups
+repository in every report. Git is a very powerful tool, but for this semester we’ll stick to the 8
+basic commands: init, remote, clone, add, commit, status, push, pull.
