@@ -2,4 +2,8 @@
 -eggs
 -butter
 -lemons
-...
+-bread
+-multifruit juice
+-quark
+-apples
+-cheese
