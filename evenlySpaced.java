@@ -7,5 +7,9 @@ medium is the same as the difference between medium and large.
         evenlySpaced(4, 6, 3) → false*/
 
     public boolean evenlySpaced(int a, int b, int c) {
-
+        if(b - a == c - b || b - a == a - c || a - c == c - b){
+            return true;
         }
+         return false;
+        }
+    }
